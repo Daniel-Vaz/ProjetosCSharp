@@ -185,7 +185,6 @@ namespace Api
                     Ttemp = +((minima + maxima) / 2);
                 }
 
-                // NECESSÁRIO REVER Calculos!!!!!
                 Tprecipit = Tprecipit / (contador - 1);
                 Ttemp = Ttemp / (contador - 1);
 
