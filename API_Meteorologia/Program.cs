@@ -181,8 +181,8 @@ namespace Api
                     var maxima = i.tMax;
 
                     contador++;
-                    Tprecipit = +precipit;
-                    Ttemp = +((minima + maxima) / 2);
+                    Tprecipit += precipit;
+                    Ttemp += ((minima + maxima) / 2);
                 }
 
                 Tprecipit = Tprecipit / (contador - 1);
