@@ -17,4 +17,4 @@ Cada um dos diretórios acima irá corresponder a um projeto diferente. Cada pro
 
 ### ToDoApp:
  - Um programa que gere e permite manipular diferentes Tarefas/Coisas a fazer, de diferentes utilizadores;
- - Utiliza uma Base de Dados em MySQL (para armazenar os Utilizadores e as Tarefas), comunicando com a mesma através de scripts em PHP.
+ - Utiliza uma Base de Dados em [MySQL](https://www.mysql.com) (para armazenar os Utilizadores e as Tarefas), comunicando com a mesma através de scripts em [PHP](https://secure.php.net).
