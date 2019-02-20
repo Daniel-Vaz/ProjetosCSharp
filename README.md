@@ -14,3 +14,7 @@ Cada um dos diretórios acima irá corresponder a um projeto diferente. Cada pro
 ### API_Meteorologia:
  - Um programa que comunica com a [API do IPMA](http://api.ipma.pt/) de forma a trabalhar e apresentar eficientemente os valores ao utilizador final;
  - Toma recurso de Frameworks como “[Newtonsoft Json.NET](https://www.newtonsoft.com/json)” para manipulação de Json’s e “[System.Net.Http](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=netframework-4.7.2)”para efetuar os pedidos à API.
+
+### ToDoApp:
+ - Um programa que gere e permite manipular diferentes Tarefas/Coisas a fazer, de diferentes utilizadores;
+ - Utiliza uma Base de Dados em MySQL (para armazenar os Utilizadores e as Tarefas), comunicando com a mesma através de scripts em PHP.
